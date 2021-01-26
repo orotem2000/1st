@@ -1,0 +1,38 @@
+body, html {
+  height: 100%;
+}
+
+body {
+ text-align: center;
+
+ background-color: lightgreen;
+ color: 
+ font-family:Ariel;
+ 
+ font-size:150%;
+ 
+ 
+}
+
+.WhiteTXT {
+	color: orange;
+	font-weight: bold;
+	}
+
+.TXT {
+font-size:80%;
+ text-align: left;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("Pitch4.PNG");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
